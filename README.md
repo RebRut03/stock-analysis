@@ -9,8 +9,10 @@
 ### Script Execution Time
   - Refactored Script
     - Using images and examples of your code, compare the execution times of the original script and the refactored script make sure links are working!!!!
+    
       ![VBA_Challenge_2017](Resources/VBA_Challenge_2017.png)
       ![VBA_Challenge_2018](Resources/VBA_Challenge_2018.PNG)
+  
   - Original Script 
 
 ## **Summary**
