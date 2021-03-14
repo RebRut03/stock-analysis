@@ -1,11 +1,17 @@
 # **Title of stock-analysis**
 
 ## **Overview of Project**
-### Purpose - Explain the purpose of this analysis.
+### Purpose - Explain the purpose of this analysis. The purpose of this project was to create some code for Steve do some stock analysis on behalf of his parents.  Although he originally looked at green stocks, he wants the option to anlysis the entire stock market over the last few years to assist his parents in determining their investments.
+
+Specifically for this portion of the project, I will refactor the code with the intention of making the VBA script run faster but keeping the same analysis functionality.
+
+In this challenge, you’ll edit, or refactor, the Module 2 solution code to loop through all the data one time in order to collect the same information that you did in this module. Then, you’ll determine whether refactoring your code successfully made the VBA script run faster. Finally, you’ll present a written analysis that explains your findings.
 
 ## **Results**
 ### Stock Performance Comparison
 - Using images and examples of your code, compare the stock performance between 2017 and 2018, 
+- As a whole, the green stocks included in Steve's list droppe
+- I would suggest that he steer his family in a different direction.
 ### Script Execution Time
   - Refactored Script
     - Using images and examples of your code, compare the execution times of the original script and the refactored script make sure links are working!!!!
