@@ -14,7 +14,10 @@
       ![VBA_Challenge_2018](Resources/VBA_Challenge_2018.PNG)
   
   - Original Script 
-
+    -  blah blah 
+      ![Original_2017](Resources/Original_2017.PNG)
+      ![Original_2018](Resources/Original_2018.PNG)
+  
 ## **Summary**
 ### Advantages or Disadvantages of Refactoring Code
 - What are the advantages or disadvantages of refactoring code?
