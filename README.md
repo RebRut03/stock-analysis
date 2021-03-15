@@ -10,9 +10,13 @@ In this challenge, you’ll edit, or refactor, the Module 2 solution code to loo
 ## **Results**
 ### Stock Performance Comparison
 - Using images and examples of your code, compare the stock performance between 2017 and 2018, 
+- Total Daily Volume - To calculate DQ's total daily volume, we need to loop through all of the stocks, so we've typed the number of rows into the code itself. What would be even better, though, is to use VBA to find the number of rows to loop over. Unfortunately, VBA doesn't have a nice function or method to figure that out. But we can't be the first person to have this problem; someone must have found a solution. 
+- Yearly return - Steve wants to know how DQ performed in 2018. One way to measure this is to calculate the yearly return for DQ. The yearly return is the percentage increase or decrease in price from the beginning of the year to the end of the year. In other words, if you invested in DQ at the beginning of the year and never sold, the yearly return is how much your investment grew or shrunk by the end of the year. Daqo dropped over 63% in 2018—yikes! Steve will definitely want to offer some better stocks to his parents.
+- Steve wants to find the total daily volume and yearly return for each stock. Daily volume is the total number of shares traded throughout the day; it measures how actively a stock is traded. The yearly return is the percentage difference in price from the beginning of the year to the end of the year.
 - As a whole, the green stocks included in Steve's list droppe
 - I would suggest that he steer his family in a different direction.
-### Script Execution Time
+### Script Execution Time - In the future, Steve may want to perform his analysis on larger datasets, and he wants to know how fast his VBA code will compile the results.
+
   - Refactored Script
     - Using images and examples of your code, compare the execution times of the original script and the refactored script make sure links are working!!!!
     
