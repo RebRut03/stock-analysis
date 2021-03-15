@@ -31,7 +31,7 @@ In this challenge, you’ll edit, or refactor, the Module 2 solution code to loo
 
   - Refactored Script
     - Using images and examples of your code, compare the execution times of the original script and the refactored script make sure links are working!!!!
-    
+    ![VBA_Challenge_2017](Resources/VBA_Challenge_2017.png)
       
   
   - Original Script 
