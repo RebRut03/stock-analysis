@@ -34,6 +34,7 @@ In this challenge, you’ll edit, or refactor, the Module 2 solution code to loo
     
       ![VBA_Challenge_2017](Resources/VBA_Challenge_2017.png)
       ![VBA_Challenge_2018](Resources/VBA_Challenge_2018.PNG)
+      
   
   - Original Script 
     -  blah blah 
