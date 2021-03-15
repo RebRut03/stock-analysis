@@ -11,9 +11,11 @@ In this challenge, you’ll edit, or refactor, the Module 2 solution code to loo
 ### Stock Performance Comparison - Steve wants to find the total daily volume and yearly return for each stock. Daily volume is the total number of shares traded throughout the day; it measures how actively a stock is traded. The yearly return is the percentage difference in price from the beginning of the year to the end of the year.  Using images and examples of your code, compare the stock performance between 2017 and 2018, 
 
 **2017 Stock Analysis:**
+
   ![Stock_Table_2017](Resources/Stock_Table_2017.PNG)
   
 **2018 Stock Analysis:**
+
   ![Stock_Table_2018](Resources/Stock_Table_2018.PNG)
 
 - Total Daily Volume - To calculate DQ's total daily volume, we need to loop through all of the stocks, so we've typed the number of rows into the code itself. What would be even better, though, is to use VBA to find the number of rows to loop over. Unfortunately, VBA doesn't have a nice function or method to figure that out. But we can't be the first person to have this problem; someone must have found a solution. 
