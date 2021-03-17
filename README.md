@@ -8,21 +8,21 @@
   
    > Daily volume is the total number of shares traded throughout the day; it measures how actively a stock is traded. And the yearly return is the percentage difference in price from the beginning of the year to the end of the year.
  
-    - To calculate this analysis, the code should loop through all of the stocks.  The solution I came up with to acheive this is as follows:
-    - 
+   - To calculate this analysis, the code should loop through all of the stocks.  The solution I came up with to acheive this is as follows:
+    
  
 
 
-    - **2017 Stock Analysis:**
+   - **2017 Stock Analysis:**
 
       ![Stock_Table_2017](Resources/Stock_Table_2017.PNG)
   
-    - **2018 Stock Analysis:**
+   - **2018 Stock Analysis:**
 
       ![Stock_Table_2018](Resources/Stock_Table_2018.PNG)
 
 
-    - Referring to the tables above, you'll see the total daily volumes and yearly returns of the green stocks that Steve originally wanted analyzed.  In 2017, the returns for these stocks, with the exception of TERP (-7.2%), were positive; however, in 2018, many of the stocks' returns drop drastically, with the exception of ENPH (+81%) and RUN (+84%).  This obviously led to Steve's desire to diversify his anlysis to include other types of stock to find a wiser investment direction for his parents.
+   - Referring to the tables above, you'll see the total daily volumes and yearly returns of the green stocks that Steve originally wanted analyzed.  In 2017, the returns for these stocks, with the exception of TERP (-7.2%), were positive; however, in 2018, many of the stocks' returns drop drastically, with the exception of ENPH (+81%) and RUN (+84%).  This obviously led to Steve's desire to diversify his anlysis to include other types of stock to find a wiser investment direction for his parents.
 
   - ### Script Execution Time - In the future, Steve may want to perform his analysis on larger datasets, and he wants to know how fast his VBA code will compile the results.
 
