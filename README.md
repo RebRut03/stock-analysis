@@ -20,7 +20,7 @@
    ![Stock_Table_2018](Resources/Stock_Table_2018.PNG)
 
 
-    - Referring to the tables above, you'll see the total daily volumes and yearly returns of the green stocks that Steve originally wanted analyzed.  In 2017, the returns for these stocks, with the exception of TERP (-7.2%), were positive; however, in 2018, many of the stocks' returns drop drastically, with the exception of ENPH (+81%) and RUN (+84%).  This obviously led to Steve's desire to diversify his anlysis to include other types of stock to find a wiser investment direction for his parents.
+   - Referring to the tables above, you'll see the total daily volumes and yearly returns of the green stocks that Steve originally wanted analyzed.  In 2017, the returns for these stocks, with the exception of TERP (-7.2%), were positive; however, in 2018, many of the stocks' returns drop drastically, with the exception of ENPH (+81%) and RUN (+84%).  This obviously led to Steve's desire to diversify his anlysis to include other types of stock to find a wiser investment direction for his parents.
 
   - ### Script Execution Time - 
     In the future, Steve may want to perform his analysis on larger datasets so he wanted to know how fast his VBA code will compile the results. I refactored the orignal code to make it run more efficiently.  Also, as you can see by the following screen shots, the refactored script's execution time is lower than the original script.  As I continue to run the refactored code, the execution time seems to become quicker and more efficient.
