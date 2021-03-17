@@ -13,11 +13,11 @@
    
    **2017 Stock Analysis:**
   
-     ![Stock_Table_2017](Resources/Stock_Table_2017.PNG)
+   ![Stock_Table_2017](Resources/Stock_Table_2017.PNG)
   
   **2018 Stock Analysis:**
   
-     ![Stock_Table_2018](Resources/Stock_Table_2018.PNG)
+   ![Stock_Table_2018](Resources/Stock_Table_2018.PNG)
 
 
     - Referring to the tables above, you'll see the total daily volumes and yearly returns of the green stocks that Steve originally wanted analyzed.  In 2017, the returns for these stocks, with the exception of TERP (-7.2%), were positive; however, in 2018, many of the stocks' returns drop drastically, with the exception of ENPH (+81%) and RUN (+84%).  This obviously led to Steve's desire to diversify his anlysis to include other types of stock to find a wiser investment direction for his parents.
