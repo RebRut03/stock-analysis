@@ -42,13 +42,13 @@
        ![Original_2018](Resources/Original_2018.PNG)
   
 ## **Summary**
-### Advantages or Disadvantages of Refactoring Code
-- One advantage of refactoring could be that the coder is able to improve the efficiency of the code.  
-    -  Three examples given in Module 2 of how code can be made more efficient include:
-    > taking fewer steps, using less memory, or improving the logic of the code to make it easier for future users to read.
- - Possible disadvantages might be the opposite of what was just mentioned.  If you are not the original author of the code, you may spend more time attempting to become familiar with the code or you may not have the background.  Perhaps the original coder might have scripted the code in what appears to be a more efficient way, and it didn't create the same output.
-### Application of Refactoring Original Script
+  - ### Advantages or Disadvantages of Refactoring Code
+    - One advantage of refactoring could be that the coder is able to improve the efficiency of the code.  
+      -  Three examples given in Module 2 of how code can be made more efficient include:
+      > taking fewer steps, using less memory, or improving the logic of the code to make it easier for future users to read.
+    - Possible disadvantages of refactoring code might include spending an inordinate amount of time familiarizing yourself with someone elses code and not knowing the history behind why it was coded in the way that it is, could be an obstacle.  Perhaps, the original coder tried it the way you are refactoring and it created a snowball effect or more obstacles.  If the original code is ridden with bugs or issues, it might be more fruitful to simply rewrite the code instead of refactoring it.
+  - ### Application of Refactoring Original Script
 There is a detailed statement on the advantages and disadvantages of the original and refactored VBA script
 - How do these pros and cons apply to refactoring the original VBA script?
 
-In this challenge, you’ll edit, or refactor, the Module 2 solution code to loop through all the data one time in order to collect the same information that you did in this module. Then, you’ll determine whether refactoring your code successfully made the VBA script run faster. Finally, you’ll present a written analysis that explains your findings.
+
