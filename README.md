@@ -28,11 +28,11 @@
         ![VBA_Challenge_2018](Resources/VBA_Challenge_2018.PNG)
       
       - Some examples of how I refactored the code to make it run more efficiently include:
-        1) creating a ticker index: `Dim tickerIndex As String tickerIndex = tickers(0)`,
-        2) creating output arrays for ticker volume, starting price, and ending prices:  `Dim tickerVolumes(12) As Long Dim tickerStartingPrices(12) As Single Dim tickerEndingPrices(12) As Single`
-        3) creating a For loop to initialize the arrays to zero: `For i = 0 To 11 tickerIndex = tickers(i) tickerVolumes(i) = 0 tickerStartingPrices(i) = 0 tickerEndingPrices(i) = 0`,
-        4) creating a for loop to loop through all rows ` For j = 2 To RowCount`  One example in this for loop of how I increaded the volume for the current ticker is `If Cells(j, 1).Value = tickerIndex Then tickerVolumes(i) = tickerVolumes(i) + Cells(j, 8).Value End If`, and 
-        5) creating a For loop to loop through the arrays and output the ticker, total daily volume, and return. `For i = 0 To 11 Worksheets("All Stocks Analysis").Activate Cells(4 + i, 1).Value = tickers(i) Cells(4 + i, 2).Value = tickerVolumes(i) Cells(4 + i, 3).Value = tickerEndingPrices(i) / tickerStartingPrices(i) - 1`
+        a) creating a ticker index: `Dim tickerIndex As String tickerIndex = tickers(0)`,
+        b) creating output arrays for ticker volume, starting price, and ending prices:  `Dim tickerVolumes(12) As Long Dim tickerStartingPrices(12) As Single Dim tickerEndingPrices(12) As Single`
+        c) creating a For loop to initialize the arrays to zero: `For i = 0 To 11 tickerIndex = tickers(i) tickerVolumes(i) = 0 tickerStartingPrices(i) = 0 tickerEndingPrices(i) = 0`,
+        d) creating a for loop to loop through all rows ` For j = 2 To RowCount`  One example in this for loop of how I increaded the volume for the current ticker is `If Cells(j, 1).Value = tickerIndex Then tickerVolumes(i) = tickerVolumes(i) + Cells(j, 8).Value End If`, and 
+        e) creating a For loop to loop through the arrays and output the ticker, total daily volume, and return. `For i = 0 To 11 Worksheets("All Stocks Analysis").Activate Cells(4 + i, 1).Value = tickers(i) Cells(4 + i, 2).Value = tickerVolumes(i) Cells(4 + i, 3).Value = tickerEndingPrices(i) / tickerStartingPrices(i) - 1`
   
     - Original Code Exection Time 
         
