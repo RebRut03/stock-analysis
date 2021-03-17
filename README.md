@@ -1,14 +1,12 @@
-# **Title of stock-analysis**
+# **Steve's Stock Analysis Tool**
 
 ## **Overview of Project**
-### Purpose - Explain the purpose of this analysis. The purpose of this project was to create some code for Steve do some stock analysis on behalf of his parents.  Although he originally looked at green stocks, he wants the option to anlysis the entire stock market over the last few years to assist his parents in determining their investments.
-
-Specifically for this portion of the project, I will refactor the code with the intention of making the VBA script run faster but keeping the same analysis functionality.
-
-In this challenge, you’ll edit, or refactor, the Module 2 solution code to loop through all the data one time in order to collect the same information that you did in this module. Then, you’ll determine whether refactoring your code successfully made the VBA script run faster. Finally, you’ll present a written analysis that explains your findings.
+  - ### Purpose - The purpose of this project is to create a tool for Steve to analyze stock daily volume and yearly return.  He will use this information to assist his parents with their investment strategy.  Although Steve originally focused his efforts on green stocks, he wants the option to anlyze all types of stocks over the last few years.  Specifically for this portion of the project, I will refactor the original code I provided Steve with the intention of making the VBA script run faster and more efficiently but keeping the same analysis functionality and output.
 
 ## **Results**
 ### Stock Performance Comparison - Steve wants to find the total daily volume and yearly return for each stock. The yearly return is the percentage difference in price from the beginning of the year to the end of the year.  Using images and examples of your code, compare the stock performance between 2017 and 2018, 
+
+In this challenge, you’ll edit, or refactor, the Module 2 solution code to loop through all the data one time in order to collect the same information that you did in this module. Then, you’ll determine whether refactoring your code successfully made the VBA script run faster. Finally, you’ll present a written analysis that explains your findings.
 
 - Total Daily Volume - Daily volume is the total number of shares traded throughout the day; it measures how actively a stock is traded. 
 - To calculate DQ's total daily volume, we need to loop through all of the stocks, so we've typed the number of rows into the code itself. What would be even better, though, is to use VBA to find the number of rows to loop over. Unfortunately, VBA doesn't have a nice function or method to figure that out. But we can't be the first person to have this problem; someone must have found a solution. 
