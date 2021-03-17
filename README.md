@@ -8,11 +8,12 @@
   
    > Daily volume is the total number of shares traded throughout the day; it measures how actively a stock is traded. And the yearly return is the percentage difference in price from the beginning of the year to the end of the year.
  
-  - #### **2017 Stock Analysis:**
+   
+   - **2017 Stock Analysis:**
   
      ![Stock_Table_2017](Resources/Stock_Table_2017.PNG)
   
-  - #### **2018 Stock Analysis:**
+  - **2018 Stock Analysis:**
   
      ![Stock_Table_2018](Resources/Stock_Table_2018.PNG)
 
