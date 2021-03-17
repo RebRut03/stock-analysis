@@ -4,7 +4,8 @@
   - ### Purpose - The purpose of this project is to create a tool for Steve to analyze stock daily volume and yearly return.  He will use this information to assist his parents with their investment strategy.  Although Steve originally focused his efforts on green stocks, he wants the option to anlyze all types of stocks over the last few years.  Specifically for this portion of the project, I will refactor the original code I provided Steve with the intention of making the VBA script run faster and more efficiently while keeping the same analysis functionality and output.
 
 ## **Results**
-  - ### Stock Performance Comparison - Steve would like this tool to calculate the total daily volume and yearly return for each stock to get a better idea of what stocks he will advise his parents to invest in. According to Module 2 material, > daily volume is the total number of shares traded throughout the day; it measures how actively a stock is traded. And the yearly return is the percentage difference in price from the beginning of the year to the end of the year.
+  - ### Stock Performance Comparison - Steve would like this tool to calculate the total daily volume and yearly return for each stock to get a better idea of what stocks he will advise his parents to invest in. According to Module 2 material:
+  > daily volume is the total number of shares traded throughout the day; it measures how actively a stock is traded. And the yearly return is the percentage difference in price from the beginning of the year to the end of the year.
  
     - To calculate this analysis, the code should loop through all of the stocks.  The solution I came up with to acheive this is as follows:
     - 
