@@ -22,7 +22,7 @@
 
   - ### Script Execution Time - In the future, Steve may want to perform his analysis on larger datasets so he wanted to know how fast his VBA code will compile the results. I refactored the orignal code to make it run more efficiently.  Also, as you can see by the following screen shots, the refactored script's execution time is lower than the original script.  As I continue to run the refactored code, the execution time seems to become quicker and more efficient.
 
-    - Refactored Code Execution Time
+    - **Refactored Code Execution Time**
           
         ![VBA_Challenge_2017](Resources/VBA_Challenge_2017.png)
     
@@ -35,7 +35,7 @@
         4) creating a for loop to loop through all rows ` For j = 2 To RowCount`  One example in this for loop of how I increaded the volume for the current ticker is `If Cells(j, 1).Value = tickerIndex Then tickerVolumes(i) = tickerVolumes(i) + Cells(j, 8).Value End If`, and 
         5) creating a For loop to loop through the arrays and output the ticker, total daily volume, and return. `For i = 0 To 11 Worksheets("All Stocks Analysis").Activate Cells(4 + i, 1).Value = tickers(i) Cells(4 + i, 2).Value = tickerVolumes(i) Cells(4 + i, 3).Value = tickerEndingPrices(i) / tickerStartingPrices(i) - 1`
   
-    - Original Code Exection Time 
+    - **Original Code Exection Time** 
         
        ![Original_2017](Resources/Original_2017.PNG)
        
