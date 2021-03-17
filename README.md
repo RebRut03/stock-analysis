@@ -27,6 +27,11 @@
     
         ![VBA_Challenge_2018](Resources/VBA_Challenge_2018.PNG)
       
+      - Some examples of how I refactored the code to make it run more efficiently include:
+        1) creating a ticker index: `Dim tickerIndex As String tickerIndex = tickers(0)`,
+        2) create output arrays for ticker volume, starting price and ending prices:  `Dim tickerVolumes(12) As Long Dim tickerStartingPrices(12) As Single Dim tickerEndingPrices(12) As Single`
+        3) creating a For loop to initialize the arrays to zero: `For i = 0 To 11 tickerIndex = tickers(i) tickerVolumes(i) = 0 tickerStartingPrices(i) = 0 tickerEndingPrices(i) = 0`,
+        4) 
   
     - Original Code 
         
